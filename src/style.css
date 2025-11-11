@@ -3,5 +3,10 @@ body {
 }
 
 h1 {
-  color: blue;
+  color: red;
+}
+
+img {
+  width: 300px;
+  border: 2px solid black;
 }
